@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=tenantBillz
+comment1.params=
+comment1.target=void\ oneten()
+comment2.params=fileName
+comment2.target=java.util.List\ readFlatsFile(java.lang.String)
+comment3.params=fileName
+comment3.target=java.util.List\ readMetersFile(java.lang.String)
+comment4.params=flats\ streetNumber\ streetName
+comment4.target=Flat\ findFlat(java.util.List,\ int,\ java.lang.String)
+comment5.params=flat\ tenants
+comment5.target=void\ calculateAndPrintBill(Flat,\ java.util.List)
+numComments=6

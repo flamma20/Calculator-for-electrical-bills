@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Fullbillz
+comment1.params=
+comment1.target=void\ everybill()
+comment2.params=filePath
+comment2.target=java.util.List\ readFlatsFile(java.lang.String)
+comment3.params=filePath
+comment3.target=java.util.List\ readMetersFile(java.lang.String)
+comment4.params=flats\ tenantMap
+comment4.target=void\ printAdjustedBills(java.util.List,\ java.util.Map)
+numComments=5

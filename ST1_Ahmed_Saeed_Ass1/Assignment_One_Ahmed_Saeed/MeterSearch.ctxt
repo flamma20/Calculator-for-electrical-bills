@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MeterSearch
+comment1.params=domain
+comment1.target=Meter(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=void\ search()
+comment4.params=
+comment4.target=java.util.List\ loadMeters()
+comment5.params=meters
+comment5.target=void\ sortMeters(java.util.List)
+comment6.params=meters\ meterNumber
+comment6.target=Meter\ findMeterSequential(java.util.List,\ java.lang.String)
+comment7.params=meters\ meterNumber
+comment7.target=Meter\ findMeterBinary(java.util.List,\ java.lang.String)
+numComments=8
